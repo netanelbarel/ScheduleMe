@@ -8,5 +8,5 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - ./:/micalndar
-      - "/micalndar/node_modules"
+      - ./:/scheduleme
+      - "/scheduleme/node_modules"

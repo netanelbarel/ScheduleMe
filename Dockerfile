@@ -1,5 +1,5 @@
 FROM node:14-alpine
-WORKDIR /micalendar
+WORKDIR /scheduleme
 
 COPY package.json ./
 
