@@ -16,6 +16,14 @@ The ScheduleMe App is a web application that allows users to schedule events bas
 
    The frontend app should now be running at http://localhost:3000.
 
+2. Navigate to the project directory:
+    ```shell
+    cd ScheduleMe
+
+3. Build and run the Docker containers using Docker Compose:
+    ```shell
+    docker-compose up --build
+
 ### Usage
 
 Open your web browser and navigate to http://localhost:3000.
